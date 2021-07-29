@@ -1,5 +1,5 @@
 ## chat                     
- <a href="#" class="notification">     <button onclick="https://cbozeyboy199.github.io/login/'">log in</button>
+ <a href="#" class="notification">     <button onclick="cbozeyboy199.github.io/login/'">log in</button>
   <span>Inbox</span>
   <span class="badge">0</span>
 </a>
