@@ -61,4 +61,4 @@
 
 
 <input class="form-control" id="siteEntry" placeholder="tap to chat ." data-toggle="tooltip">   <button type="button" onclick="alert('error:427 you are not an auterized chat user')">enter</button>  <button onclick="window.location.href='https://cbozeyboy199.github.io'">back</button> 
-button onclick="window.location.href='https://cbozeyboy199.github.io/login/'">log in</button
+<button onclick="window.location.href='https://cbozeyboy199.github.io/login/'">log in</button>
