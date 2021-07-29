@@ -48,7 +48,7 @@
 <div class="container">
   <img src="/w3images/bandmember.jpg" alt="cbozey_boy19" style="width:100%;">
   <p>the chat is gonna be closed for non admin users for a while but i will add a 2nd chat</p>
-  <span class="time-right">8:49 3months ago</span>
+  <span class="time-right">8:49 3 months ago</span>
 </div>
 
 
