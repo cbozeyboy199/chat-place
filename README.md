@@ -1,7 +1,7 @@
 ## chat                     
- <a href="#" class="notification">     <button onclick="cbozeyboy199.github.io/login/'">log in</button>
+ <a href="#" class="notification">     
   <span>Inbox</span>
-  <span class="badge">0</span>
+  <span class="badge">1</span>
 </a>
 
 
@@ -60,4 +60,4 @@
 
 
 
-<input class="form-control" id="siteEntry" placeholder="tap to chat ." data-toggle="tooltip">   <button type="button" onclick="alert('error:427 you are not an auterized chat user')">enter</button>  <button onclick="window.location.href='https://cbozeyboy199.github.io'">back</button>
+<input class="form-control" id="siteEntry" placeholder="tap to chat ." data-toggle="tooltip">   <button type="button" onclick="alert('error:427 you are not an auterized chat user')">enter</button>  <button onclick="window.location.href='https://cbozeyboy199.github.io'">back</button> <button onclick="cbozeyboy199.github.io/login/'">log in</button>
