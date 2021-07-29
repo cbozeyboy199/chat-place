@@ -30,7 +30,7 @@
   <p>bro chill</p>
   <span class="time-right">3:57 8 months ago</span>
 </div>
-</p>
+
 
 <div class="container darker">
   <img src="/w3images/avatar_g2.jpg" alt="avatar" class="right" style="width:100%;">
