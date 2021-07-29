@@ -47,7 +47,14 @@
 
 <div class="container">
   <img src="/w3images/bandmember.jpg" alt="cbozey_boy19" style="width:100%;">
-  <p>the chat is gonna be closed for non admin users for a while but i will add a 2nd chat</p>
+  <p>the chat is gonna be closed for non admin sorry</p>
+  <span class="time-right">8:49 3 months ago</span>
+</div>
+
+
+<div class="container">
+  <img src="/w3images/bandmember.jpg" alt="cbozey_boy19" style="width:100%;">
+  <p>ima make a new one tho for non admins</p>
   <span class="time-right">8:49 3 months ago</span>
 </div>
 
